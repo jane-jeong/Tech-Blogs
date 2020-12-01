@@ -43,5 +43,5 @@
 [Apple Developer](https://developer.apple.com/)
 
 
-## Blogs
-[velopert.com](https://velopert.com/)
+## Web Books & Blogs
+[Dive into HTML5 by Mark Pilgrim](http://diveintohtml5.info/index.html)
