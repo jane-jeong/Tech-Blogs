@@ -1,4 +1,4 @@
-# Tech-Blogs
+# Tech-Docs-and-Blogs
 
 ## MDN - JS, HTML, CSS
 [MDN JavaScript](https://developer.mozilla.org/ko/docs/Web/JavaScript)
